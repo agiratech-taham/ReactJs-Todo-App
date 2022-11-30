@@ -33,7 +33,7 @@ function CheckButton({ checked, handleCheck }) {
         className={styles.svg}
         viewBox="0 0 53 38"
         fill="none"
-        xmlns="http://www.w3.org/2000/svg"
+        xmlns="http://www.w3.ordemo1g/2000/svg"
       >
         <motion.path
           variants={checkVariants}
